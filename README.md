@@ -32,5 +32,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadthegreat799&show_icons=true&locale=en&layout=compact" alt="prasadthegreat799" /></p>
 </b>
 
-![alt text](./images/bottom.svg)
+![alt text](bottom.svg)
 
